@@ -1,5 +1,9 @@
 # Afternoon-Projects
 
+### opt::result (C++)
+An alternative implementation of optional types with more features.
+[link](https://github.com/kmehrunes/cpp-result)
+
 ### ilink utils (C)
 Few functions for getting basic information about the network interfaces of the system.
 
